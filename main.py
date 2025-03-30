@@ -4,4 +4,4 @@ from src.load import salvarCSV
 
 dados_bcb = requestAPIBCB('20191')
 
-salvarCSV(dados_bcb, 'ETL_BCB/src/datasets/meiosPagamentosTri.csv', ';', '.')
+salvarCSV(dados_bcb, 'src/datasets/meiosPagamentosTri.csv', ';', '.')
