@@ -4,3 +4,7 @@ sqlalchemy
 pymysql
 black
 matplotlib
+scikit-learn
+seaborn
+prophet
+plotly
